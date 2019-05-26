@@ -2,7 +2,9 @@
 
 This is an example event sourcing project.
 
-I blogged about this at https://yoongkang.com/blog/event-sourcing-in-django/
+~~I blogged about this at https://yoongkang.com/blog/event-sourcing-in-django/~~
+
+I took down my blog post as I wasn't happy with it. The link above will 404. Email me if you have any questions, at yoongkang [dot] lim [at] gmail.com
 
 
 # Requirements
